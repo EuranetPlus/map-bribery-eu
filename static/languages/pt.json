@@ -1,13 +1,12 @@
 {
-  "title": "Quais países da UE oferecem as melhores perspectivas de emprego?",
-  "subtitle": "O crescimento futuro do emprego nesses países entre 2022 e 2035 é estimado em 5,6%.",
+  "title": "Qual a frequência com que são registados crimes de suborno na UE?",
+  "subtitle": "Em 2024, os países da UE com dados disponíveis registaram uma média de 3,07 crimes de suborno por cada 100.000 habitantes. A Hungria apresentou, de longe, a taxa mais elevada, com 38,99, enquanto a Espanha registou a taxa mais baixa, com 0,18.",
   "textNoteDescription": "Observação",
-  "textNote": "SDCHDC",
+  "textNote": "Não há dados disponíveis para os Países Baixos e a Irlanda.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Acesse os dados",
-  "extraInfo_DE": "Alemanha acelera implementação de energia renovável e tem como meta 80% de energia limpa até 2030",
-  "extraInfo_FR": "Parlamento francês aprova importante projeto de lei de reforma da imigração em meio a protestos em todo o país",
-  "legend1": "Não há dados disponíveis",
+  "legend1": "Não há dados disponíveis.",
+  "customUnitLabel": "por 100.000 habitantes",
   "tooltipExtraInfoLabel": "Clique aqui"
 }

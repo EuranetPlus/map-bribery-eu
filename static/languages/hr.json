@@ -1,13 +1,12 @@
 {
-  "title": "Koje zemlje EU-a nude najbolje izglede za zapošljavanje?",
-  "subtitle": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022. – 2035. procjenjuje se na 5,6%.",
+  "title": "Koliko su česti zabilježeni prekršaji podmićivanja diljem EU-a?",
+  "subtitle": "U 2024. godini, zemlje EU-a s dostupnim podacima zabilježile su prosječno 3,07 kaznenih djela podmićivanja na 100.000 stanovnika. Mađarska je imala daleko najvišu stopu s 38,99, dok je Španjolska zabilježila najnižu stopu s 0,18.",
   "textNoteDescription": "Bilješka",
-  "textNote": "sdchdc",
+  "textNote": "Nema dostupnih podataka za Nizozemsku i Irsku.",
   "textSourceDescription": "Izvor",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pristupite podacima",
-  "extraInfo_DE": "Njemačka ubrzava uvođenje obnovljive energije, cilj je 80% čiste energije do 2030.",
-  "extraInfo_FR": "Francuski parlament odobrio veliki nacrt zakona o useljeničkoj reformi usred prosvjeda diljem zemlje",
+  "textSource": "Eurostat (2026.)",
+  "linkDataAccessDescription": "Pristup podacima",
   "legend1": "Nema dostupnih podataka",
+  "customUnitLabel": "na 100.000 stanovnika",
   "tooltipExtraInfoLabel": "Kliknite ovdje"
 }

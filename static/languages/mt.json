@@ -1,13 +1,12 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Kemm huma komuni r-reati ta' tixħim irreġistrati madwar l-UE?",
+  "subtitle": "Fl-2024, il-pajjiżi tal-UE b'dejta disponibbli rreġistraw medja ta' 3.07 reati ta' tixħim għal kull 100,000 abitant. L-Ungerija kellha bil-bosta l-ogħla rata ta' 38.99 filwaqt li Spanja rreġistrat l-inqas rata ta' 0.18.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "M'hemm l-ebda dejta disponibbli għall-Olanda u l-Irlanda.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "L-Eurostat (2026)",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
+  "customUnitLabel": "għal kull 100,000 abitant",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }

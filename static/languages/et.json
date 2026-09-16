@@ -1,13 +1,12 @@
 {
-  "title": "Millised ELi riigid pakuvad parimaid töövõimalusi?",
-  "subtitle": "Nendes riikides on edaspidine tööhõive kasv aastatel 2022–2035 hinnanguliselt 5,6%.",
+  "title": "Kui levinud on registreeritud altkäemaksukuriteod ELis?",
+  "subtitle": "2024. aastal registreeriti kättesaadavate andmetega EL-i riikides keskmiselt 3,07 altkäemaksukuritegu 100 000 elaniku kohta. Ungaris oli see määr ülekaalukalt kõrgeim, 38,99, samas kui Hispaanias registreeriti madalaim määr, 0,18.",
   "textNoteDescription": "Märkus",
-  "textNote": "sdchdc",
+  "textNote": "Hollandi ja Iirimaa kohta andmed puuduvad.",
   "textSourceDescription": "Allikas",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_DE": "Saksamaa kiirendab taastuvenergia kasutuselevõttu, seab eesmärgiks 80% puhta energia kasutamise aastaks 2030",
-  "extraInfo_FR": "Prantsusmaa parlament kiitis üleriigiliste protestide taustal heaks immigratsioonireformi seaduse eelnõu",
-  "legend1": "Andmed puuduvad",
-  "tooltipExtraInfoLabel": "Klõpsake siin"
+  "legend1": "Andmed pole saadaval",
+  "customUnitLabel": "100 000 elaniku kohta",
+  "tooltipExtraInfoLabel": "Kliki siia"
 }

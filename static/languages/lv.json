@@ -1,13 +1,12 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Cik bieži ES ir reģistrēti kukuļdošanas nodarījumi?",
+  "subtitle": "2024. gadā ES valstīs ar pieejamiem datiem vidēji tika reģistrēti 3,07 kukuļdošanas nodarījumi uz 100 000 iedzīvotāju. Ungārijā bija visaugstākais rādītājs — 38,99, savukārt Spānijā — viszemākais — 0,18.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Dati par Nīderlandi un Īriju nav pieejami.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
+  "customUnitLabel": "uz 100 000 iedzīvotāju",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }

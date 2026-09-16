@@ -1,13 +1,12 @@
 {
-  "title": "Ktoré krajiny EÚ ponúkajú najlepšie vyhliadky na zamestnanie?",
-  "subtitle": "Budúci rast zamestnanosti v týchto krajinách v rokoch 2022-2035 sa odhaduje na 5,6 %.",
+  "title": "Aké časté sú zaznamenané trestné činy úplatkárstva v celej EÚ?",
+  "subtitle": "V roku 2024 zaznamenali krajiny EÚ s dostupnými údajmi priemerne 3,07 trestných činov úplatkárstva na 100 000 obyvateľov. Maďarsko malo zďaleka najvyššiu mieru s 38,99, zatiaľ čo Španielsko zaznamenalo najnižšiu mieru s 0,18.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Pre Holandsko a Írsko nie sú k dispozícii žiadne údaje.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Prístup k údajom",
-  "extraInfo_DE": "Nemecko urýchľuje zavádzanie energie z obnoviteľných zdrojov a do roku 2030 má za cieľ dosiahnuť 80 % čistej energie",
-  "extraInfo_FR": "Francúzsky parlament počas celonárodných protestov schválil návrh zákona o veľkej imigračnej reforme",
   "legend1": "Nie sú k dispozícii žiadne údaje",
+  "customUnitLabel": "na 100 000 obyvateľov",
   "tooltipExtraInfoLabel": "Kliknite sem"
 }

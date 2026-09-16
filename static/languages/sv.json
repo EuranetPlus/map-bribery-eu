@@ -1,13 +1,12 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Hur vanliga är registrerade mutbrott i EU?",
+  "subtitle": "År 2024 registrerade EU-länder med tillgängliga data i genomsnitt 3,07 mutbrott per 100 000 invånare. Ungern hade den klart högsta andelen på 38,99 medan Spanien registrerade den lägsta andelen på 0,18.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Inga uppgifter tillgängliga för Nederländerna och Irland.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
+  "customUnitLabel": "per 100 000 invånare",
   "tooltipExtraInfoLabel": "Klicka här"
 }

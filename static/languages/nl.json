@@ -1,13 +1,12 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Hoe vaak worden er in de EU gevallen van omkoping geregistreerd?",
+  "subtitle": "In 2024 registreerden EU-landen met beschikbare gegevens gemiddeld 3,07 gevallen van omkoping per 100.000 inwoners. Hongarije had verreweg het hoogste aantal met 38,99, terwijl Spanje het laagste aantal registreerde met 0,18.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "Er zijn geen gegevens beschikbaar voor Nederland en Ierland.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
+  "customUnitLabel": "per 100.000 inwoners",
   "tooltipExtraInfoLabel": "Klik hier"
 }
